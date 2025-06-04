@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-one-amazing-review-about-decision-intelligence-is-accepted-by-the-innovation-congrats-to-all-sparkles",
+          title: 'One amazing review about Decision Intelligence is accepted by The Innovation, congrats to...',
           description: "",
           section: "News",},{id: "news-two-papers-blast-and-merlin-are-accepted-by-kdd-congrats-to-zezhi-and-chengqing",
           title: 'Two papers, BLAST and Merlin, are accepted by KDD, congrats to Zezhi and...',
