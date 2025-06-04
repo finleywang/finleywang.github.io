@@ -440,15 +440,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-one-amazing-review-about-decision-intelligence-is-accepted-by-the-innovation-congrats-to-all-sparkles",
           title: 'One amazing review about Decision Intelligence is accepted by The Innovation, congrats to...',
           description: "",
-          section: "News",},{id: "news-two-papers-blast-and-merlin-are-accepted-by-kdd-congrats-to-zezhi-and-chengqing",
+          section: "News",},{id: "news-review-of-foundation-model-and-decision-intelligence-is-selected-as-cover-paper",
+          title: 'Review of Foundation Model and Decision Intelligence is selected as Cover Paper!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-two-papers-blast-and-merlin-are-accepted-by-kdd-congrats-to-zezhi-and-chengqing",
           title: 'Two papers, BLAST and Merlin, are accepted by KDD, congrats to Zezhi and...',
           description: "",
           section: "News",},{id: "projects-project-1",
