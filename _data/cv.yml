@@ -2,96 +2,68 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Fei Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th June 1988
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Chinese Academy of Sciences, Beijing, China
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+        - Leading research team on Spatial-Temporal Data Mining.
+        - Supervised by Prof. Yongjun Xu.
+    - title: BE
+      institution: Beijing Institute of Technology, Beijing, China
       year: 1900
       description:
-        - Description 1.
-        - Description 2.
+        - Security of IoT.
+        - Supervised by Prof. Liehuang Zhu.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Researcher of Computer Science
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2020-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Focus on Spatial-Temporal Data Mining.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/GestaltCogTeam/BasicTS">BasicTS</a>
+      year: 2022-now
+      description: A Fair and Scalable Time Series Forecasting Benchmark and Toolkit.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - to be added
+        - to be added
+    - year: 2025
       items:
-        - Max Planck Medal
+        - to be added
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
       items:
-        - Description 1.
-        - Description 2.
+        - to be added.
+        - to be added.
     - title: Topic 2.
       items:
-        - Description 1.
-        - Description 2.
+        - to be added.
+        - to be added.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> to be added, etc.
