@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: GestaltCog Lab 观沧实验室 # the website title (if blank, full name will be used instead)
+title: Fei Wang 王飞 # the website title (if blank, full name will be used instead)
 first_name: Fei
-middle_name: 
+middle_name:
 last_name: Wang
 contact_note: >
-  Reach me through wangfei at ict dot ac dot cn.
+  Reach me through wangfei at ict dot ac dot cn, @ GestaltCog Lab 观沧实验室
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Fei Wang. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
