@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-05-08 12:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, congrats to all! :sparkles: 
