@@ -1,33 +1,25 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Review of Foundation Model and Decision Intelligence is selected as Cover Paper!
+date: 2025-05-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, it is also selected as Cover Page.
 
 ---
+Cover Story
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+From the scorched cracks on Shang Dynasty oracle bones to AlphaFold's deciphering of protein folding, from Go's strategic warfare to financial quantitative trading, human civilization epitomizes an evolutionary journey of decision intelligence. Foundation models are reshaping decision-making paradigms across financial transactions to scientific discovery. This interdisciplinary review crystallizes three critical dimensions: (1) Paradigm Transcendence – How generative AI triggers paradigm leaps in decision intelligence? (2) Nuclear Transformation –How foundation models construct new decision topologies amid uncertainty? (3) Application Singularity – Where lies the frontier when world models and multimodal reasoning technologies empower decision intelligence? By decoding the "technological DNA" – from the elegant proof of the Seven Bridges Problem to Transformers' emergent decision capabilities – this review traces the evolution, paradigms, technologies, and applications of decision intelligence. It reveals a pivotal trend: foundation models are sparking a "Cambrian Explosion" in decision science. The convergence of decision intelligence and foundation models may herald the dawn of a new intelligent species.
+Illustrated by Yongjun Xu, Cheems Wang, Fei Wang, Xingxing Liang, Sihang Qiu, Tingting Li, Xuefei Li, Libo Huang, Boqiang Li, Wei Zhao, Xianxi Dong, Meng Liang, and Ke Chen.
 
-#### Hipster list
+#### Keyword
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>AI</li>
+    <li>Foundation Model</li>
+    <li>Decision Intelligence</li>
+    <li>Pespectives</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
