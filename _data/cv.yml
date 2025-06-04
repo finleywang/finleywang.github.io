@@ -15,7 +15,7 @@
       institution: University of Chinese Academy of Sciences, Beijing, China
       year: 2017
       description:
-        - Leading research team on Spatial-Temporal Data Mining.
+        - Focus on technology innovation of Spatial-Temporal Data Mining.
         - Supervised by Prof. Yongjun Xu.
     - title: BE
       institution: Beijing Institute of Technology, Beijing, China
@@ -31,7 +31,12 @@
       institution: Institute of Computing Technology, Chinese Academy of Sciences
       year: 2020-now
       description:
-        - Focus on Spatial-Temporal Data Mining.
+        - Leading research team on Spatial-Temporal Data Mining.
+    - title: Assitant Researcher of Computer Science
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2017-2020
+      description:
+        - Focus on thoery, technology and application innovation of Spatial-Temporal Data Mining.
 
 - title: Open Source Projects
   type: time_table
@@ -43,27 +48,33 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: 2024
       items:
-        - to be added
-        - to be added
-    - year: 2025
+        - The Innovation Best Paper
+    - year: 2022
       items:
-        - to be added
+        - DASFAA 2022 Best Student Paper
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Spatial Temporal Data Mining.
       items:
-        - to be added.
-        - to be added.
-    - title: Topic 2.
+        - ST foundation models.
+        - ST data synthesis.
+        - fair and scalable benchmark for ST models
+    - title: Time series analysis.
       items:
-        - to be added.
-        - to be added.
+        - foundation models.
+        - forecasting in critical scenarios.
+        - high-efficiency model architecture.
+     - title: AI for Science.
+      items:
+        - ST AI for Urban Science.
+        - ST AI for Atmospheric Science.
+        - ST AI for Ocean Science, Marine Science.    
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> to be added, etc.
+    - <u>Hobbies:</u> Hiking, Movie, Badminton, etc.
