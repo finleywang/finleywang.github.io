@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Leading GestaltCog Lab 观沧实验室; <a href="https://www.ict.ac.cn/">Institute of Computing Technology, Chinese Academy of Sciences</a>.
+subtitle: Associate Professor, Leading GestaltCog Lab 观沧实验室
+subtitle: <a href="https://www.ict.ac.cn/">Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
 profile:
   align: right
