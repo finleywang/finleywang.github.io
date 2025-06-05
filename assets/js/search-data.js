@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-hello-world-from-gestaltcog-lab",
-        
-          title: "Hello World from GestaltCog Lab",
-        
-        description: "an brief annoucement of homepage launch",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/distill/";
-          
-        },
-      },{id: "books-the-godfather",
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
