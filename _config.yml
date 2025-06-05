@@ -267,7 +267,7 @@ scholar:
   first_name: [Fei, F.]
 
   style: apa
-  locale: cn
+  locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
