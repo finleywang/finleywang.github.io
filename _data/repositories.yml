@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GestaltCogTeam
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - GestaltCogTeam/BasicTS
+  - GestaltCogTeam/STEP
+  - GestaltCogTeam/STID
+  - GestaltCogTeam/D2STGNN
+  - GestaltCogTeam/DSformer
+  - GestaltCogTeam/MGSFformer
+  - GestaltCogTeam/GinAR
+  - GestaltCogTeam/DFDGCN
+  - GestaltCogTeam/AdapTraj
+  - GestaltCogTeam/BLAST
