@@ -1,44 +1,35 @@
 {
   "basics": {
-    "name": "Fei Wang",
-    "label": "Associate Researcher",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "wangfei@ict.ac.cn",
-    "phone": "(+86) 186-1226-1146",
-    "url": "https://finleywang.github.io/",
-    "summary": "A focused Researcher leading research team on Spatial-Temporal Data Mining",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": " 6 Kexueyuan Nanlu, Zhongguancun",
-      "postalCode": "100190",
-      "city": "Beijing",
-      "countryCode": "CN",
-      "region": "Haidian"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "finleywang",
-        "url": "https://github.com/GestaltCogTeam"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute of Computing Technology, Chinese Academy of Sciences",
-      "position": "Associate Researcher of Data Science",
-      "url": "https://scholar.google.com.hk/citations?user=MuEc_JEAAAAJ",
-      "startDate": "2020-09-30",
-      "endDate": "now",
-      "summary": "Leading a research team on Spatial-Temporal Data Mining",
-      "highlights": ["Relativity"]
-    }
-    {
-      "name": "Institute of Computing Technology, Chinese Academy of Sciences",
-      "position": "Assitant Researcher",
-      "url": "https://scholar.google.com.hk/citations?user=MuEc_JEAAAAJ",
-      "startDate": "2017-07-05",
-      "endDate": "2020-09-30",
-      "summary": "Focus on technology innovation of Spatial-Temporal Data Mining",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
   ],
@@ -56,13 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Chinese Academy of Sciences, Beijing, China",
-      "location": "Beijing, China",
-      "url": "https://www.ucas.edu.cn/",
-      "area": "Computer Architecture",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "2011-06-25",
-      "endDate": "2017-06-28"
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -158,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -170,31 +163,15 @@
   ],
   "interests": [
     {
-      "name": "Spatial Temporal Data Mining",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "ST foundation models",
+        "Quantum Mechanics",
         "Quantum Computing",
-        "ST data synthesis",
-        "fair and scalable benchmark for ST models"
-      ]
-    }
-    {
-      "name": "Time series analysis",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "foundation models",
-        "forecasting in critical scenarios",
-        "high-efficiency model architecture"
-      ]
-    }
-        {
-      "name": "AI for Science",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "ST AI for Urban Science",
-        "ST AI for Atmospheric Science",
-        "ST AI for Ocean Science, Marine Science"
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
