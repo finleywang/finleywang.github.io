@@ -30,11 +30,3 @@ His research interests mainly lie in:
 1. Spatio-temporal (ST) data mining: ST foundation models, ST data synthesis, fair and scalable benchmark for ST models.
 2. Time series analysis: foundation models, forecasting in critical scenarios, high-efficiency model architecture.
 3. AI for Science: ST datamining in Urban Science, Atmospheric Science, Ocean Science, Marine Science. 
-
-<div style=" width:300px; height:300px;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI"></script></div>
-
-<br>
-
-<!-- hitwebcounter Code START -->
-The <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=18047257&style=0032&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a> visitor since Dec 24th, 2024.   
