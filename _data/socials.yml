@@ -2,18 +2,23 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+
+scholar_userid: MuEc_JEAAAAJ # your Google Scholar ID
+github_username: finleywang # your GitHub user name
+dblp_url: https://dblp.org/pid/52/3194-14 # your DBLP profile url
+orcid_id: 0000-0002-3282-0535 # your ORCID ID
+semanticscholar_id: 2148955026 # your Semantic Scholar ID
+email: wangfei@ict.ac.cn # your email address
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: wangfei@ict.ac.cn # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -23,16 +28,13 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: MuEc_JEAAAAJ # your Google Scholar ID
+# rss_icon: true # comment this line to hide the RSS icon
 # scopus_id: # your profile on Scopus
-# semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
@@ -45,7 +47,8 @@ scholar_userid: MuEc_JEAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/

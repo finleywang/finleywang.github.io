@@ -83,13 +83,13 @@ google_site_verification: # your google-site-verification ID (Google Search Cons
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog
+# Blog Delete
 # -----------------------------------------------------------------------------
 
-blog_name: GestaltCog Lab # blog_name will be displayed in your blog page
-blog_description: Offical homepage for GestaltCog Lab hosted by Fei Wang
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+#blog_name: GestaltCog Lab # blog_name will be displayed in your blog page
+#blog_description: Offical homepage for GestaltCog Lab hosted by Fei Wang
+#permalink: /blog/:year/:title/
+#lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
