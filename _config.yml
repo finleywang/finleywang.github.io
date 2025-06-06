@@ -86,18 +86,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog Delete
 # -----------------------------------------------------------------------------
 
-#blog_name: GestaltCog Lab # blog_name will be displayed in your blog page
-#blog_description: Offical homepage for GestaltCog Lab hosted by Fei Wang
-#permalink: /blog/:year/:title/
-#lsi: false # produce an index for related posts
+blog_name: GestaltCog Lab # blog_name will be displayed in your blog page
+blog_description: Offical homepage for GestaltCog Lab hosted by Fei Wang
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
 # Pagination
-#pagination:
-#  enabled: true
+pagination:
+  enabled: true
 
 #related_blog_posts:
-#  enabled: true
-#  max_related: 5
+  enabled: false
+  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
