@@ -1,1 +1,5 @@
 nbconvert
+scholarly
+requests
+beautifulsoup4
+pyyaml
