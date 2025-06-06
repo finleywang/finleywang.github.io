@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers, BLAST and Merlin, are accepted by <b>KDD</b>, congrats to Zezhi and Chengqing!
+Two papers, BLAST and Merlin, are accepted by <b>KDD</b>, congrats to Zezhi and Chengqing!:sparkles: 
