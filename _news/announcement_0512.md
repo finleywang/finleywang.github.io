@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, it is also selected as Cover Page.
+One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, it is also selected as Cover Page.:sparkles: 
 
 ---
 Cover Story
