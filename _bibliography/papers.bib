@@ -95,6 +95,31 @@
   code={https://github.com/GestaltCogTeam/STID}
 }
 
+@inproceedings{10.1145/3583780.3614851,
+  bibtex_show={true},
+  abbr={CIKM},
+  author = {Yu, Chengqing and Wang, Fei and Shao, Zezhi and Sun, Tao and Wu, Lin and Xu, Yongjun},
+  title = {DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction},
+  year = {2023},
+  month = oct,
+  isbn = {9798400701245},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3583780.3614851},
+  doi = {10.1145/3583780.3614851},
+  abstract = {Multivariate time series long-term prediction, which aims to predict the change of data in a long time, can provide references for decision-making. Although transformer-based models have made progress in this field, they usually do not make full use of three features of multivariate time series: global information, local information, and variables correlation. To effectively mine the above three features and establish a high-precision prediction model, we propose a double sampling transformer (DSformer), which consists of the double sampling (DS) block and the temporal variable attention (TVA) block. Firstly, the DS block employs down sampling and piecewise sampling to transform the original series into feature vectors that focus on global information and local information respectively. Then, TVA block uses temporal attention and variable attention to mine these feature vectors from different dimensions and extract key information. Finally, based on a parallel structure, DSformer uses multiple TVA blocks to mine and integrate different features obtained from DS blocks respectively. The integrated feature information is passed to the generative decoder based on a multi-layer perceptron to realize multivariate time series long-term prediction. Experimental results on nine real-world datasets show that DSformer can outperform eight existing baselines.},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages = {3062–3072},
+  numpages = {11},
+  keywords = {double sampling transformer, multivariate time series long-term prediction, temporal variable attention block},
+  location = {Birmingham, United Kingdom},
+  series = {CIKM '23}
+  google_scholar_id={L8Ckcad2t8MC},
+  selected={true},
+  code={https://github.com/GestaltCogTeam/DSformer}
+}
+
+
 @inproceedings{10.1145/3637528.3672055,
   bibtex_show={true},
   abbr={KDD},
@@ -118,6 +143,25 @@
   pdf={example_pdf.pdf},
   selected={true},
   code={https://github.com/GestaltCogTeam/GinAR}
+}
+
+@article{ZHAO2024100691,
+  bibtex_show={true},
+  abbr={Innovation},
+  title = {Artificial intelligence for geoscience: Progress, challenges, and perspectives},
+  journal = {The Innovation},
+  volume = {5},
+  number = {5},
+  pages = {100691},
+  year = {2024},
+  issn = {2666-6758},
+  doi = {https://doi.org/10.1016/j.xinn.2024.100691},
+  url = {https://www.sciencedirect.com/science/article/pii/S2666675824001292},
+  author = {Tianjie Zhao and Sheng Wang and Chaojun Ouyang and Min Chen and Chenying Liu and Jin Zhang and Long Yu and Fei Wang and Yong Xie and Jun Li and Fang Wang and Sabine Grunwald and Bryan M. Wong and Fan Zhang and Zhen Qian and Yongjun Xu and Chengqing Yu and Wei Han and Tao Sun and Zezhi Shao and Tangwen Qian and Zhao Chen and Jiangyuan Zeng and Huai Zhang and Husi Letu and Bing Zhang and Li Wang and Lei Luo and Chong Shi and Hongjun Su and Hongsheng Zhang and Shuai Yin and Ni Huang and Wei Zhao and Nan Li and Chaolei Zheng and Yang Zhou and Changping Huang and Defeng Feng and Qingsong Xu and Yan Wu and Danfeng Hong and Zhenyu Wang and Yinyi Lin and Tangtang Zhang and Prashant Kumar and Antonio Plaza and Jocelyn Chanussot and Jiabao Zhang and Jiancheng Shi and Lizhe Wang},
+  keywords = {artificial intelligence, machine learning, deep learning, geoscience},
+  abstract = {This paper explores the evolution of geoscientific inquiry, tracing the progression from traditional physics-based models to modern data-driven approaches facilitated by significant advancements in artificial intelligence (AI) and data collection techniques. Traditional models, which are grounded in physical and numerical frameworks, provide robust explanations by explicitly reconstructing underlying physical processes. However, their limitations in comprehensively capturing Earth’s complexities and uncertainties pose challenges in optimization and real-world applicability. In contrast, contemporary data-driven models, particularly those utilizing machine learning (ML) and deep learning (DL), leverage extensive geoscience data to glean insights without requiring exhaustive theoretical knowledge. ML techniques have shown promise in addressing Earth science-related questions. Nevertheless, challenges such as data scarcity, computational demands, data privacy concerns, and the “black-box” nature of AI models hinder their seamless integration into geoscience. The integration of physics-based and data-driven methodologies into hybrid models presents an alternative paradigm. These models, which incorporate domain knowledge to guide AI methodologies, demonstrate enhanced efficiency and performance with reduced training data requirements. This review provides a comprehensive overview of geoscientific research paradigms, emphasizing untapped opportunities at the intersection of advanced AI techniques and geoscience. It examines major methodologies, showcases advances in large-scale models, and discusses the challenges and prospects that will shape the future landscape of AI in geoscience. The paper outlines a dynamic field ripe with possibilities, poised to unlock new understandings of Earth’s complexities and further advance geoscience exploration.}
+  google_scholar_id={maZDTaKrznsC},
+  selected={true}
 }
 
 @ARTICLE{10726722,
@@ -267,7 +311,7 @@
   url = {https://www.sciencedirect.com/science/article/pii/S2666675824002182},
   author = {Siheng Chen* and Yiyi Liao* and Fei Wang* and Gang Wang* and Liang Wang* and Yafei Wang* and Xichan Zhu*},
   google_scholar_id={LPZeul_q3PIC},
-  selected={true}
+  selected={false}
 }
 
 
@@ -341,7 +385,7 @@
   author = {Tang-Wen Qian and Yuan Wang and Yong-Jun Xu and Zhao Zhang and Lin Wu and Qiang Qiu and Fei Wang*},
   abstract = {<p>Predicting the future trajectories of multiple agents is essential for various applications in real life, such as surveillance systems, autonomous driving, and social robots. The trajectory prediction task is influenced by many factors, including the individual historical trajectory, interactions between agents, and the fuzzy nature of the observed agents’ motion. While existing methods have made great progress on the topic of trajectory prediction, they treat all the information uniformly, which limits the effectiveness of information utilization. To this end, in this paper, we propose and utilize a model-agnostic framework to regard all the information in a two-level hierarchical view. Particularly, the first-level view is the inter-trajectory view. In this level, we observe that the difficulty in predicting different trajectory samples varies. We define trajectory difficulty and train the proposed framework in an “easy-to-hard” schema. The second-level view is the intra-trajectory level. We find the influencing factors for a particular trajectory can be divided into two parts. The first part is global features, which keep stable within a trajectory, i.e., the expected destination. The second part is local features, which change over time, i.e., the current position. We believe that the two types of information should be handled in different ways. The hierarchical view is beneficial to take full advantage of the information in a fine-grained way. Experimental results validate the effectiveness of the proposed model-agnostic framework.</p>},
   google_scholar_id={HDshCWvjkbEC},
-  selected={true}
+  selected={false}
 }
 
 
