@@ -50,6 +50,7 @@ def get_scholar_citations():
     for attempt in range(MAX_RETRIES):
         try:
             author = scholarly.search_author_id(SCHOLAR_USER_ID)
+            print("Try to fetch author id :"+SCHOLAR_USER_ID)
             author_data = scholarly.fill(author)
             break
         except Exception as e:
