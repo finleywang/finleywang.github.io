@@ -15,6 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
+ \* denotes corresponding author and \+ indicates equal contribution.
+
 {% bibliography %}
 
 </div>
