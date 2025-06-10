@@ -5,29 +5,29 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"KDD":
-  color: "#009f36"
+#"KDD":
+#  color: "#009f36"
 
-"VLDB":
-  color: "#009f36"
+#"VLDB":
+#  color: "#009f36"
 
-"ACM MM":
-  color: "#009f36"
+#"ACM MM":
+#  color: "#009f36"
 
-"AAAI":
-  color: "#009f36"
+#"AAAI":
+#  color: "#009f36"
 
-"ICDE":
-  color: "#009f36"
+#"ICDE":
+#  color: "#009f36"
 
-"ICML":
-  color: "#009f36"
+#"ICML":
+#  color: "#009f36"
 
-"CIKM":
-  color: "#009f36"
+#"CIKM":
+#  color: "#009f36"
 
-"DASFAA":
-  color: "#009f36"
+#"DASFAA":
+#  color: "#009f36"
 
 "Innovation":
   color: "#00369f"
