@@ -65,6 +65,33 @@
   selected={true}
 }
 
+@inproceedings{10.1145/3511808.3557702,
+  bibtex_show={true},
+  abbr={CIKM},
+  author = {Shao, Zezhi and Zhang, Zhao and Wang*, Fei and Wei, Wei and Xu, Yongjun},
+  title = {Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting},
+  year = {2022},
+  month = oct,
+  isbn = {9781450392365},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3511808.3557702},
+  doi = {10.1145/3511808.3557702},
+  abstract = {Multivariate Time Series (MTS) forecasting plays a vital role in a wide range of applications. Recently, Spatial-Temporal Graph Neural Networks (STGNNs) have become increasingly popular MTS forecasting methods due to their state-of-the-art performance. However, recent works are becoming more sophisticated with limited performance improvements. This phenomenon motivates us to explore the critical factors of MTS forecasting and design a model that is as powerful as STGNNs, but more concise and efficient. In this paper, we identify the indistinguishability of samples in both spatial and temporal dimensions as a key bottleneck, and propose a simple yet effective baseline for MTS forecasting by attaching <u>S</u>patial and <u>T</u>emporal <u>ID</u>entity information (STID), which achieves the best performance and efficiency simultaneously based on simple Multi-Layer Perceptrons (MLPs). These results suggest that we can design efficient and effective models as long as they solve the indistinguishability of samples, without being limited to STGNNs.},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  pages = {4454-4458},
+  numpages = {5},
+  keywords = {spatial-temporal graph neural network, multivariate time series forecasting, baseline},
+  location = {Atlanta, GA, USA},
+  series = {CIKM '22},
+  google_scholar_id={4TOpqqG69KYC},
+  pdf={example_pdf.pdf},
+  selected={true},
+  code={https://github.com/GestaltCogTeam/STID},
+  award={**The Most Cited paper in CIKM 2022** 2022 *1/561*},
+  award_name={The Most Cited paper in CIKM 2022}
+}
+
 @inproceedings{10.1145/3534678.3539396,
   bibtex_show={true},
   abbr={KDD},
@@ -117,32 +144,27 @@
   award_name={The 3rd-Most Cited paper in VLDB 2022}
 }
 
-@inproceedings{10.1145/3511808.3557702,
+
+@InProceedings{10.1007/978-3-031-00126-0_33,
   bibtex_show={true},
-  abbr={CIKM},
-  author = {Shao, Zezhi and Zhang, Zhao and Wang*, Fei and Wei, Wei and Xu, Yongjun},
-  title = {Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting},
-  year = {2022},
-  month = oct,
-  isbn = {9781450392365},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3511808.3557702},
-  doi = {10.1145/3511808.3557702},
-  abstract = {Multivariate Time Series (MTS) forecasting plays a vital role in a wide range of applications. Recently, Spatial-Temporal Graph Neural Networks (STGNNs) have become increasingly popular MTS forecasting methods due to their state-of-the-art performance. However, recent works are becoming more sophisticated with limited performance improvements. This phenomenon motivates us to explore the critical factors of MTS forecasting and design a model that is as powerful as STGNNs, but more concise and efficient. In this paper, we identify the indistinguishability of samples in both spatial and temporal dimensions as a key bottleneck, and propose a simple yet effective baseline for MTS forecasting by attaching <u>S</u>patial and <u>T</u>emporal <u>ID</u>entity information (STID), which achieves the best performance and efficiency simultaneously based on simple Multi-Layer Perceptrons (MLPs). These results suggest that we can design efficient and effective models as long as they solve the indistinguishability of samples, without being limited to STGNNs.},
-  booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
-  pages = {4454-4458},
-  numpages = {5},
-  keywords = {spatial-temporal graph neural network, multivariate time series forecasting, baseline},
-  location = {Atlanta, GA, USA},
-  series = {CIKM '22},
-  google_scholar_id={4TOpqqG69KYC},
-  pdf={example_pdf.pdf},
+  abbr={DASFAA},
+  author={Sun, Tao and Wang, Fei and Zhang, Zhao and Wu, Lin and Xu, Yongjun},
+  title={Human Mobility Identification by Deep Behavior Relevant Location Representation},
+  booktitle={Database Systems for Advanced Applications},
+  year={2022},
+  month=apr,
+  publisher={Springer International Publishing},
+  address={Cham},
+  pages={439--454},
+  abstract={This paper focuses on Trajectory User Link (TUL), which aims at identifying user identities through exploiting their mobility patterns. Existing TUL approaches are based on location representation, a way to learn location associations by embedding vectors that can indicate the level of semantic similarity between the locations. However, existing methods for location representation don't consider the semantic diversity of locations, which will lead to a misunderstanding of the semantic information of trajectory when linking anonymous trajectories to candidate users. To solve this problem, in this paper, we propose Deep Behavior Relevant Location representation (DBRLr) to map the polysemous locations into distinct vectors, from the perspective of users' behavior to reflect the semantic polysemy of locations. To learn this representation, we build a Location Prediction-based Movement Model (LP-based MM), which learns user behavior representation at each visited location from a large history trajectory corpora. LP-based MM considers both Continuity and Cyclicity characteristics of user's movement. We employ the combination of the intermediate layer representation in LP-based MM as DBRLr. An effective recurrent neural network is used to link anonymous trajectories with candidate users. Experiments are conducted on two real-world datasets, and the result shows that our method performs beyond existing methods.},
+  isbn={978-3-031-00126-0},
+  google_scholar_id={KlAtU1dfN6UC},
   selected={true},
-  code={https://github.com/GestaltCogTeam/STID},
-  award={**The Most Cited paper in CIKM 2022** 2022 *1/561*},
-  award_name={The Most Cited paper in CIKM 2022}
+  award={Fei Wang receveid the **Best Student Paper Award** 2022 *for the contribution to method of Deep Behavior Relevant Location Representation*},
+  award_name={Best Student Paper Award}
 }
+
+
 
 @inproceedings{10.1145/3583780.3614851,
   bibtex_show={true},
@@ -168,25 +190,6 @@
   code={https://github.com/GestaltCogTeam/DSformer},
   award={**The 2nd-Cited paper in CIKM 2023** 2023 *2/676*},
   award_name={The 2nd-Cited paper in CIKM 2023}
-}
-
-@InProceedings{10.1007/978-3-031-00126-0_33,
-  bibtex_show={true},
-  abbr={DASFAA},
-  author={Sun, Tao and Wang, Fei and Zhang, Zhao and Wu, Lin and Xu, Yongjun},
-  title={Human Mobility Identification by Deep Behavior Relevant Location Representation},
-  booktitle={Database Systems for Advanced Applications},
-  year={2022},
-  month=apr,
-  publisher={Springer International Publishing},
-  address={Cham},
-  pages={439--454},
-  abstract={This paper focuses on Trajectory User Link (TUL), which aims at identifying user identities through exploiting their mobility patterns. Existing TUL approaches are based on location representation, a way to learn location associations by embedding vectors that can indicate the level of semantic similarity between the locations. However, existing methods for location representation don't consider the semantic diversity of locations, which will lead to a misunderstanding of the semantic information of trajectory when linking anonymous trajectories to candidate users. To solve this problem, in this paper, we propose Deep Behavior Relevant Location representation (DBRLr) to map the polysemous locations into distinct vectors, from the perspective of users' behavior to reflect the semantic polysemy of locations. To learn this representation, we build a Location Prediction-based Movement Model (LP-based MM), which learns user behavior representation at each visited location from a large history trajectory corpora. LP-based MM considers both Continuity and Cyclicity characteristics of user's movement. We employ the combination of the intermediate layer representation in LP-based MM as DBRLr. An effective recurrent neural network is used to link anonymous trajectories with candidate users. Experiments are conducted on two real-world datasets, and the result shows that our method performs beyond existing methods.},
-  isbn={978-3-031-00126-0},
-  google_scholar_id={KlAtU1dfN6UC},
-  selected={true},
-  award={Fei Wang receveid the **Best Student Paper Award** 2022 *for the contribution to method of Deep Behavior Relevant Location Representation*},
-  award_name={Best Student Paper Award}
 }
 
 @ARTICLE{10726722,
