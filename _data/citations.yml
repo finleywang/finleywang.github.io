@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2025-06-08 22:30:41'
+  last_updated: '2025-06-15 01:58:53'
 papers:
   MuEc_JEAAAAJ:8k81kl-MbHgC:
     title: 'Artificial intelligence: A powerful paradigm for scientific research'
     year: '2021'
-    citations: 1419
+    citations: 1436
   MuEc_JEAAAAJ:4TOpqqG69KYC:
     title: 'Spatial-temporal identity: A simple yet effective baseline for multivariate
       time series forecasting'
@@ -13,12 +13,12 @@ papers:
   MuEc_JEAAAAJ:D_sINldO8mEC:
     title: Decoupled dynamic spatial-temporal graph neural network for traffic forecasting
     year: '2022'
-    citations: 292
+    citations: 294
   MuEc_JEAAAAJ:HE397vMXCloC:
     title: Pre-training enhanced spatial-temporal graph neural network for multivariate
       time series forecasting
     year: '2022'
-    citations: 291
+    citations: 293
   MuEc_JEAAAAJ:d1gkVwhDpl0C:
     title: '2FLIP: A two-factor lightweight privacy-preserving authentication scheme
       for VANET'
@@ -31,7 +31,7 @@ papers:
   MuEc_JEAAAAJ:maZDTaKrznsC:
     title: 'Artificial intelligence for geoscience: Progress, challenges and perspectives'
     year: '2024'
-    citations: 206
+    citations: 207
   MuEc_JEAAAAJ:u-x6o8ySG0sC:
     title: 'LESPP: lightweight and efficient strong privacy preserving authentication
       scheme for secure VANET communication'
@@ -51,7 +51,7 @@ papers:
     title: 'Dsformer: A double sampling transformer for multivariate time series long-term
       prediction'
     year: '2023'
-    citations: 87
+    citations: 88
   MuEc_JEAAAAJ:qxL8FJ1GzNcC:
     title: Secure and efficient blockchain-assisted authentication for edge-integrated
       Internet-of-Vehicles
@@ -66,11 +66,11 @@ papers:
     title: 'LAMANCO: A Lightweight Anonymous Mutual Authentication Scheme for  -Times
       Computing Offloading in IoT'
     year: '2018'
-    citations: 51
+    citations: 50
   MuEc_JEAAAAJ:e5wmG9Sq2KIC:
     title: "Artificial intelligence for science\u2014bridging data to wisdom"
     year: '2023'
-    citations: 31
+    citations: 32
   MuEc_JEAAAAJ:iH-uZ7U-co4C:
     title: 'Ginar: An end-to-end multivariate time series forecasting model suitable
       for variable missing'
@@ -79,11 +79,11 @@ papers:
   MuEc_JEAAAAJ:hqOjcs7Dif8C:
     title: Heterogeneous graph neural network with multi-view representation learning
     year: '2022'
-    citations: 29
+    citations: 30
   MuEc_JEAAAAJ:MXK_kJrjxJIC:
     title: 'Evaluation methods of port dominance: A critical review'
     year: '2021'
-    citations: 29
+    citations: 30
   MuEc_JEAAAAJ:mVmsd5A6BfQC:
     title: 'AI-enhanced spatial-temporal data-mining technology: New chance for next-generation
       urban computing'
@@ -114,7 +114,7 @@ papers:
   MuEc_JEAAAAJ:9ZlFYXVOiuMC:
     title: 'Basicts: An open source fair multivariate time series prediction benchmark'
     year: '2022'
-    citations: 16
+    citations: 17
   MuEc_JEAAAAJ:YsMSGLbcyi4C:
     title: Modeling the COVID-19 outbreak in China through multi-source information
       fusion
