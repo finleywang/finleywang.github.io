@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We have established IEEE CIS Task Force on AI for Time Series and Spatio-Temporal Data!
-date: 2025-06-20 12:00:0000
+date: 2025-06-20 12:00:00-0000
 inline: false
 related_posts: false
 ---
