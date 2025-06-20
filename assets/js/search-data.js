@@ -77,7 +77,12 @@ ninja.data = [{
             },},{id: "news-two-papers-blast-and-merlin-are-accepted-by-kdd-congrats-to-zezhi-and-chengqing-sparkles",
           title: 'Two papers, BLAST and Merlin, are accepted by KDD, congrats to Zezhi and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-we-have-established-ieee-cis-task-force-on-ai-for-time-series-and-spatio-temporal-data",
+          title: 'We have established IEEE CIS Task Force on AI for Time Series and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0620/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
