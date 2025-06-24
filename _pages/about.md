@@ -30,3 +30,9 @@ His research interests mainly lie in:
 * **Spatio-temporal (ST) data mining**: ST foundation models, ST data synthesis, fair and scalable benchmark for ST models.
 * **Time series analysis**: foundation models, forecasting in critical scenarios, high-efficiency model architecture.
 * **AI for Science**: ST datamining in Urban Science, Atmospheric Science, Ocean Science, Marine Science. 
+
+His academic services include：
+* **Organization**: Publicity Chair of [WebST 2025](https://webst2025.netlify.app/organizer), Program Committee of [IEEE CIS Task Force on AI for Time Series and Spatio-Temporal Data](https://cis.taskforce.ieee.org/ai4tst/)
+* **PC Member**: Neurips 2025, MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
+* **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks
+
