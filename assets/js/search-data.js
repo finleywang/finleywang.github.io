@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0620/";
+            },},{id: "news-one-tkde-paper-about-mts-heterogeneity-has-entered-esi-high-cited-papers",
+          title: 'One TKDE paper about MTS heterogeneity has entered ESI high cited papers！',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0715/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
