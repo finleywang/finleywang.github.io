@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0620/";
+            },},{id: "news-one-tutorial-about-mts-heterogeneity-has-been-accepted-by-sstd-2025",
+          title: 'One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0709/";
             },},{id: "news-one-tkde-paper-about-mts-heterogeneity-has-entered-esi-high-cited-papers",
           title: 'One TKDE paper about MTS heterogeneity has entered ESI high cited papers！',
           description: "",
