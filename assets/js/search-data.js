@@ -92,6 +92,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0715/";
+            },},{id: "news-dr-fei-wang-gives-a-talk-about-st-data-compact-learning-at-ndbc-2025",
+          title: 'Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0802/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
