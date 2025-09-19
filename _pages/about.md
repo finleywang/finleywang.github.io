@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr. Fei Wang is currently an Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences (CAS). He belongs to Research Center for Intelligent Equipment Systems and State Key Laboratory of AI Safety. He is working on the research, development, and application of spatio-temporal data mining, timeseries forecasting and AI4Science. Prior to that, he obtained his PhD degree at ICT, CAS under the supervision of [**Prof. Yongjun Xu**](https://scholar.google.com/citations?user=l34KxTYAAAAJ&hl=zh-CN). He is now also supervised by [**Prof. Xueqi Cheng**](https://scholar.google.com.hk/citations?user=hY8aLqAAAAAJ&hl=zh-CN). He published 50+ papers in journals (e.g., The Innovation, TKDE, TVT) and conferences (such as KDD, ICDE, VLDB, AAAI, ICML, MM and CIKM). His publications collectively gathered 4,600+ citations on Google Scholar, with h-index of 22. Among them, one paper was awarded as Best Paper by the world class journal The Innovation, one paper was awarded as Best Student Paper by DASFAA 2022, several papers (STEP, STID, DSFormer) were selected as the most influential papers ranked by PaperDigest, one paper entered ESI (Essential Science Indicators) Highly Cited Papers. He has served as the Youth Editor of The Innovation (IF=33.2, the 4th among Multidisciplinary Journals over the world; CiteScore=53.4, the 2nd among Multidisciplinary Journals over the world), and PC for prestigious conferences, including KDD, NeurIPS, IJCAI, MM, AAAI and so on.
+Dr. Fei Wang is currently an Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences (CAS). He belongs to Research Center for Intelligent Equipment Systems and State Key Laboratory of AI Safety. He is working on the research, development, and application of spatio-temporal data mining, timeseries forecasting and AI4Science. Prior to that, he obtained his PhD degree at ICT, CAS under the supervision of [**Prof. Yongjun Xu**](https://scholar.google.com/citations?user=l34KxTYAAAAJ&hl=zh-CN). He is now also supervised by [**Prof. Xueqi Cheng**](https://scholar.google.com.hk/citations?user=hY8aLqAAAAAJ&hl=zh-CN). He published 50+ papers in journals (e.g., The Innovation, TKDE, TVT) and conferences (such as KDD, CIKM, ICDE, VLDB, ICML, AAAI, MM and ACL). His publications collectively gathered 4,900+ citations on Google Scholar, with h-index of 22. Among them, one paper was awarded as Best Paper by the world class journal The Innovation, one paper was awarded as Best Student Paper by DASFAA 2022, several papers (STEP, STID, DSFormer) were selected as the most influential papers ranked by PaperDigest, one paper entered ESI (Essential Science Indicators) Highly Cited Papers. He has served as the Youth Editor of The Innovation (IF=25.7, the 4th among Multidisciplinary Journals over the world; CiteScore=53.4, the 2nd among Multidisciplinary Journals over the world), and PC for prestigious conferences, including KDD, NeurIPS, IJCAI, AAAI, MM and so on.
 
 Our lab are actively seeking highly motivated and self-driven students (RA/Master/PhD). If you are interested, feel free to reach out!
 
@@ -37,4 +37,18 @@ His academic services include：
 * **Organization**: Chair of CNCC 2025 Workshop, Publicity Chair of [WebST 2025](https://webst2025.netlify.app/organizer), Program Committee of [IEEE CIS Task Force on AI for Time Series and Spatio-Temporal Data](https://cis.taskforce.ieee.org/ai4tst/).
 * **PC Member**: AAAI 2026，KDD 2026，Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
 * **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks.
+
+His main academic hornors and awards
+------
+* 2025, “Project of Western Light for Interdisciplinary Team” of CAS
+* 2025, TKDE 24 paper，ESI (Essential Science Indicators) Highly Cited Paper 
+* 2025, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
+* 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Reviewer Award
+* 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
+* 2024, Most Liked Poster Award, Research Summit of Urban Sciences and Human Dynamics
+* 2024, Most Influential CIKM 2022 Papers #1 (2024-09 ranked by PaperDigest)
+* 2024, Most Influential CIKM 2023 Papers #5 (2024-09 ranked by PaperDigest)
+* 2024, Most Influential KDD 2022 Papers #4 (2024-09 ranked by PaperDigest)
+* 2022, Youth Innovation Promotion Association of CAS
+* 2022, DASFAA Best Student Paper (DASFAA 2022)
 
