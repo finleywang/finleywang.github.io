@@ -38,8 +38,7 @@ His academic services include：
 * **PC Member**: AAAI 2026，KDD 2026，Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
 * **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks.
 
-His main academic hornors and awards
-------
+His main academic hornors and awards:
 * 2025, “Project of Western Light for Interdisciplinary Team” of CAS
 * 2025, TKDE 24 paper，ESI (Essential Science Indicators) Highly Cited Paper 
 * 2025, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
