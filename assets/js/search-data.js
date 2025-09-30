@@ -97,6 +97,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0802/";
+            },},{id: "news-three-papers-have-been-accepted-by-neurips-2025-congrats-to-yisong-tangwen-and-all-coauthors",
+          title: 'Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_0919/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
