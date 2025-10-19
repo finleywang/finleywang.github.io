@@ -1,37 +1,37 @@
 metadata:
-  last_updated: '2025-09-28 00:28:24'
+  last_updated: '2025-10-19 00:29:20'
 papers:
   MuEc_JEAAAAJ:8k81kl-MbHgC:
     title: 'Artificial intelligence: A powerful paradigm for scientific research'
     year: '2021'
-    citations: 1740
+    citations: 1810
   MuEc_JEAAAAJ:4TOpqqG69KYC:
     title: 'Spatial-temporal identity: A simple yet effective baseline for multivariate
       time series forecasting'
     year: '2022'
-    citations: 375
+    citations: 382
   MuEc_JEAAAAJ:D_sINldO8mEC:
     title: Decoupled dynamic spatial-temporal graph neural network for traffic forecasting
     year: '2022'
-    citations: 366
+    citations: 376
   MuEc_JEAAAAJ:HE397vMXCloC:
     title: Pre-training enhanced spatial-temporal graph neural network for multivariate
       time series forecasting
     year: '2022'
-    citations: 354
+    citations: 362
   MuEc_JEAAAAJ:d1gkVwhDpl0C:
     title: '2FLIP: A two-factor lightweight privacy-preserving authentication scheme
       for VANET'
     year: '2015'
-    citations: 249
+    citations: 251
   MuEc_JEAAAAJ:ufrVoPGSRksC:
     title: Mapping global shipping density from AIS data
     year: '2017'
-    citations: 225
+    citations: 226
   MuEc_JEAAAAJ:maZDTaKrznsC:
     title: 'Artificial intelligence for geoscience: Progress, challenges, and perspectives'
     year: '2024'
-    citations: 267
+    citations: 286
   MuEc_JEAAAAJ:u-x6o8ySG0sC:
     title: 'LESPP: lightweight and efficient strong privacy preserving authentication
       scheme for secure VANET communication'
@@ -41,22 +41,22 @@ papers:
     title: 'Exploring progress in multivariate time series forecasting: Comprehensive
       benchmarking and heterogeneity analysis'
     year: '2024'
-    citations: 170
+    citations: 173
   MuEc_JEAAAAJ:kNdYIx-mwKoC:
     title: 'BiSyn-GAT+: Bi-syntax aware graph attention network for aspect-based sentiment
       analysis'
     year: '2022'
-    citations: 108
+    citations: 109
   MuEc_JEAAAAJ:L8Ckcad2t8MC:
     title: 'Dsformer: A double sampling transformer for multivariate time series long-term
       prediction'
     year: '2023'
-    citations: 145
+    citations: 149
   MuEc_JEAAAAJ:qxL8FJ1GzNcC:
     title: Secure and efficient blockchain-assisted authentication for edge-integrated
       Internet-of-Vehicles
     year: '2022'
-    citations: 81
+    citations: 82
   MuEc_JEAAAAJ:u5HHmVD_uO8C:
     title: Improving both energy and time efficiency of depth-based routing for underwater
       sensor networks
@@ -70,12 +70,12 @@ papers:
   MuEc_JEAAAAJ:e5wmG9Sq2KIC:
     title: "Artificial intelligence for science\u2014bridging data to wisdom"
     year: '2023'
-    citations: 39
+    citations: 40
   MuEc_JEAAAAJ:iH-uZ7U-co4C:
     title: 'Ginar: An end-to-end multivariate time series forecasting model suitable
       for variable missing'
     year: '2024'
-    citations: 46
+    citations: 47
   MuEc_JEAAAAJ:hqOjcs7Dif8C:
     title: Heterogeneous graph neural network with multi-view representation learning
     year: '2022'
@@ -83,7 +83,7 @@ papers:
   MuEc_JEAAAAJ:MXK_kJrjxJIC:
     title: 'Evaluation methods of port dominance: A critical review'
     year: '2021'
-    citations: 32
+    citations: 34
   MuEc_JEAAAAJ:mVmsd5A6BfQC:
     title: 'AI-enhanced spatial-temporal data-mining technology: New chance for next-generation
       urban computing'
@@ -101,12 +101,12 @@ papers:
     title: 'Mgsfformer: A multi-granularity spatiotemporal fusion transformer for
       air quality prediction'
     year: '2025'
-    citations: 44
+    citations: 47
   MuEc_JEAAAAJ:_FxGoFyzp5QC:
     title: Identifying port calls of ships by uncertain reasoning with trajectory
       data
     year: '2020'
-    citations: 19
+    citations: 20
   MuEc_JEAAAAJ:TFP_iSt0sucC:
     title: Relational diffusion distillation for efficient image generation
     year: '2024'
@@ -114,7 +114,7 @@ papers:
   MuEc_JEAAAAJ:9ZlFYXVOiuMC:
     title: 'Basicts: An open source fair multivariate time series prediction benchmark'
     year: '2022'
-    citations: 23
+    citations: 24
   MuEc_JEAAAAJ:YsMSGLbcyi4C:
     title: Modeling the COVID-19 outbreak in China through multi-source information
       fusion
@@ -140,7 +140,7 @@ papers:
   MuEc_JEAAAAJ:4JMBOYKVnBMC:
     title: Dynamic frequency domain graph convolutional network for traffic forecasting
     year: '2024'
-    citations: 19
+    citations: 20
   MuEc_JEAAAAJ:ULOm3_A8WrAC:
     title: Multi-featured spatial-temporal and dynamic multi-graph convolutional network
       for metro passenger flow prediction
@@ -170,7 +170,7 @@ papers:
   MuEc_JEAAAAJ:VOx2b1Wkg3QC:
     title: 'MetaCity: Data-driven sustainable development of complex cities'
     year: '2025'
-    citations: 11
+    citations: 12
   MuEc_JEAAAAJ:WF5omc3nYNoC:
     title: 'CABIN: a novel cooperative attention based location prediction network
       using internal-external trajectory dependencies'
@@ -180,7 +180,7 @@ papers:
     title: 'Clustering-property matters: A cluster-aware network for large scale multivariate
       time series forecasting'
     year: '2023'
-    citations: 8
+    citations: 9
   MuEc_JEAAAAJ:3s1wT3WcHBgC:
     title: Exploiting global contextual information for document-level named entity
       recognition
@@ -189,7 +189,7 @@ papers:
   MuEc_JEAAAAJ:M3ejUd6NZC8C:
     title: Trajectory prediction from hierarchical perspective
     year: '2022'
-    citations: 6
+    citations: 7
   MuEc_JEAAAAJ:KlAtU1dfN6UC:
     title: Human mobility identification by deep behavior relevant location representation
     year: '2022'
@@ -206,7 +206,7 @@ papers:
   MuEc_JEAAAAJ:7PzlFSSx8tAC:
     title: 'Hutformer: Hierarchical u-net transformer for long-term traffic forecasting'
     year: '2023'
-    citations: 8
+    citations: 9
   MuEc_JEAAAAJ:bEWYMUwI8FkC:
     title: "Big data\u2013driven carbon emission traceability list and characteristics\
       \ of ships in maritime transportation\u2014a case study of Tianjin Port"
@@ -220,12 +220,12 @@ papers:
   MuEc_JEAAAAJ:5Ul4iDaHHb8C:
     title: 'Mpq-dm: Mixed precision quantization for extremely low bit diffusion models'
     year: '2025'
-    citations: 5
+    citations: 8
   MuEc_JEAAAAJ:8AbLer7MMksC:
     title: 'Spatial-temporal large models: A super hub linking multiple scientific
       areas with artificial intelligence'
     year: '2025'
-    citations: 6
+    citations: 7
   MuEc_JEAAAAJ:M3NEmzRMIkIC:
     title: Trajectory-user linking via multi-scale graph attention network
     year: '2025'
@@ -242,7 +242,7 @@ papers:
     title: 'Foundation models and intelligent decision-making: Progress, challenges,
       and perspectives'
     year: '2025'
-    citations: 14
+    citations: 15
   MuEc_JEAAAAJ:eflP2zaiRacC:
     title: 'Towards more economical large-scale foundation models: no longer a game
       for the few'
@@ -271,16 +271,16 @@ papers:
     title: 'GinAR+: A Robust End-To-End Framework for Multivariate Time Series Forecasting
       with Missing Values'
     year: '2025'
-    citations: 10
+    citations: 14
   MuEc_JEAAAAJ:LPZeul_q3PIC:
     title: Toward the robustness of autonomous vehicles in the AI era
     year: '2025'
-    citations: 2
+    citations: 3
   MuEc_JEAAAAJ:t6usbXjVLHcC:
     title: 'Blast: Balanced sampling time series corpus for universal forecasting
       models'
     year: '2025'
-    citations: 3
+    citations: 6
   MuEc_JEAAAAJ:q3oQSFYPqjQC:
     title: 'AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes'
     year: '2025'
@@ -301,7 +301,7 @@ papers:
     title: 'LightWeather: Harnessing Absolute Positional Encoding to Efficient and
       Scalable Global Weather Forecasting'
     year: '2024'
-    citations: 2
+    citations: 3
   MuEc_JEAAAAJ:qjMakFHDy7sC:
     title: 'EPAF: An Efficient Pseudonymous-Based Inter-vehicle Authentication Framework
       for VANET'
@@ -329,7 +329,7 @@ papers:
   MuEc_JEAAAAJ:WA5NYHcadZ8C:
     title: 'KnowCoder-V2: Deep Knowledge Analysis'
     year: '2025'
-    citations: 0
+    citations: 1
   MuEc_JEAAAAJ:AXPGKjj_ei8C:
     title: 'BasicTS: An Open Source Fair'
     year: '2023'
@@ -341,5 +341,10 @@ papers:
   MuEc_JEAAAAJ:JQOojiI6XY0C:
     title: 'ARIES: Relation Assessment and Model Recommendation for Deep Time Series
       Forecasting'
+    year: '2025'
+    citations: 0
+  MuEc_JEAAAAJ:uLbwQdceFCQC:
+    title: 'Heterogeneity in Multivariate Time Series: Comprehensive Analysis and
+      Adaptive Modeling'
     year: '2025'
     citations: 0
