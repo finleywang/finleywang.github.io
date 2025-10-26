@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2025-10-19 00:29:20'
+  last_updated: '2025-10-26 00:28:20'
 papers:
   MuEc_JEAAAAJ:8k81kl-MbHgC:
     title: 'Artificial intelligence: A powerful paradigm for scientific research'
     year: '2021'
-    citations: 1810
+    citations: 1830
   MuEc_JEAAAAJ:4TOpqqG69KYC:
     title: 'Spatial-temporal identity: A simple yet effective baseline for multivariate
       time series forecasting'
     year: '2022'
-    citations: 382
+    citations: 387
   MuEc_JEAAAAJ:D_sINldO8mEC:
     title: Decoupled dynamic spatial-temporal graph neural network for traffic forecasting
     year: '2022'
-    citations: 376
+    citations: 378
   MuEc_JEAAAAJ:HE397vMXCloC:
     title: Pre-training enhanced spatial-temporal graph neural network for multivariate
       time series forecasting
     year: '2022'
-    citations: 362
+    citations: 363
   MuEc_JEAAAAJ:d1gkVwhDpl0C:
     title: '2FLIP: A two-factor lightweight privacy-preserving authentication scheme
       for VANET'
@@ -31,7 +31,7 @@ papers:
   MuEc_JEAAAAJ:maZDTaKrznsC:
     title: 'Artificial intelligence for geoscience: Progress, challenges, and perspectives'
     year: '2024'
-    citations: 286
+    citations: 294
   MuEc_JEAAAAJ:u-x6o8ySG0sC:
     title: 'LESPP: lightweight and efficient strong privacy preserving authentication
       scheme for secure VANET communication'
@@ -41,17 +41,17 @@ papers:
     title: 'Exploring progress in multivariate time series forecasting: Comprehensive
       benchmarking and heterogeneity analysis'
     year: '2024'
-    citations: 173
+    citations: 175
   MuEc_JEAAAAJ:kNdYIx-mwKoC:
     title: 'BiSyn-GAT+: Bi-syntax aware graph attention network for aspect-based sentiment
       analysis'
     year: '2022'
-    citations: 109
+    citations: 110
   MuEc_JEAAAAJ:L8Ckcad2t8MC:
     title: 'Dsformer: A double sampling transformer for multivariate time series long-term
       prediction'
     year: '2023'
-    citations: 149
+    citations: 150
   MuEc_JEAAAAJ:qxL8FJ1GzNcC:
     title: Secure and efficient blockchain-assisted authentication for edge-integrated
       Internet-of-Vehicles
@@ -70,7 +70,7 @@ papers:
   MuEc_JEAAAAJ:e5wmG9Sq2KIC:
     title: "Artificial intelligence for science\u2014bridging data to wisdom"
     year: '2023'
-    citations: 40
+    citations: 41
   MuEc_JEAAAAJ:iH-uZ7U-co4C:
     title: 'Ginar: An end-to-end multivariate time series forecasting model suitable
       for variable missing'
@@ -92,7 +92,7 @@ papers:
   MuEc_JEAAAAJ:eQOLeE2rZwMC:
     title: 'TULSN: Siamese network for trajectory-user linking'
     year: '2020'
-    citations: 25
+    citations: 26
   MuEc_JEAAAAJ:W7OEmFMy1HYC:
     title: Data security and privacy challenges of computing offloading in FINs
     year: '2020'
@@ -101,7 +101,7 @@ papers:
     title: 'Mgsfformer: A multi-granularity spatiotemporal fusion transformer for
       air quality prediction'
     year: '2025'
-    citations: 47
+    citations: 48
   MuEc_JEAAAAJ:_FxGoFyzp5QC:
     title: Identifying port calls of ships by uncertain reasoning with trajectory
       data
@@ -140,7 +140,7 @@ papers:
   MuEc_JEAAAAJ:4JMBOYKVnBMC:
     title: Dynamic frequency domain graph convolutional network for traffic forecasting
     year: '2024'
-    citations: 20
+    citations: 21
   MuEc_JEAAAAJ:ULOm3_A8WrAC:
     title: Multi-featured spatial-temporal and dynamic multi-graph convolutional network
       for metro passenger flow prediction
@@ -162,11 +162,11 @@ papers:
   MuEc_JEAAAAJ:aqlVkmm33-oC:
     title: 'HANDOM: Heterogeneous attention network model for malicious domain detection'
     year: '2023'
-    citations: 14
+    citations: 15
   MuEc_JEAAAAJ:r0BpntZqJG4C:
     title: Self-improvement programming for temporal knowledge graph question answering
     year: '2024'
-    citations: 12
+    citations: 13
   MuEc_JEAAAAJ:VOx2b1Wkg3QC:
     title: 'MetaCity: Data-driven sustainable development of complex cities'
     year: '2025'
@@ -220,7 +220,7 @@ papers:
   MuEc_JEAAAAJ:5Ul4iDaHHb8C:
     title: 'Mpq-dm: Mixed precision quantization for extremely low bit diffusion models'
     year: '2025'
-    citations: 8
+    citations: 9
   MuEc_JEAAAAJ:8AbLer7MMksC:
     title: 'Spatial-temporal large models: A super hub linking multiple scientific
       areas with artificial intelligence'
@@ -348,3 +348,8 @@ papers:
       Adaptive Modeling'
     year: '2025'
     citations: 0
+  MuEc_JEAAAAJ:tKAzc9rXhukC:
+    title: 'WFNet: A hierarchical convolutional neural network for wildfire spread
+      prediction'
+    year: '2023'
+    citations: 15
