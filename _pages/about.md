@@ -35,7 +35,7 @@ His research interests mainly lie in:
 
 His academic services include：
 * **Organization**: Chair of CNCC 2025 Workshop, Publicity Chair of [WebST 2025](https://webst2025.netlify.app/organizer), Program Committee of [IEEE CIS Task Force on AI for Time Series and Spatio-Temporal Data](https://cis.taskforce.ieee.org/ai4tst/).
-* **PC Member**: AAAI 2026，KDD 2026，Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
+* **PC Member**: AAAI 2026, KDD 2026, Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
 * **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks.
 
 His main academic hornors and awards:
