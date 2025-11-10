@@ -33,14 +33,14 @@ profiles:
       <p>Zezhi Shao</p>
   
   - align: left
-    image: prof_pic_chengqingyu.jpg
+    image: prof_pic_cqy.jpg
     content: about_chengqingyu.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Chengqing Yu</p>
  
   - align: left
-    image: prof_pic_yujieli.jpg
+    image: prof_pic_yjl.jpg
     content: about_yujieli.md
     image_circular: true # crops the image to make it circular
     more_info: >
