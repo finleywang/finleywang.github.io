@@ -28,7 +28,21 @@ profiles:
   - align: left
     image: prof_pic_zzs.jpg
     content: about_zezhishao.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>Zezhi Shao</p>
+  
+  - align: left
+    image: prof_pic_chengqingyu.jpg
+    content: about_chengqingyu.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Chengqing Yu</p>
+ 
+  - align: left
+    image: prof_pic_yujieli.jpg
+    content: about_yujieli.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Yujie Li</p>
 ---
