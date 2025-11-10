@@ -102,6 +102,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0919/";
+            },},{id: "news-our-basicts-has-now-been-upgraded-to-v1-0",
+          title: 'Our BasicTS has now been upgraded to v1.0!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1030/";
+            },},{id: "news-our-paper-have-been-accepted-by-aaai-26-congrats-to-yujie-li-and-all-coauthors",
+          title: 'Our Paper have been accepted by AAAI 26, congrats to Yujie Li and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1108/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
