@@ -27,9 +27,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher of Computer Science
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2025-now
+      description:
+        - Leading research team on Spatial-Temporal Data Mining.
     - title: Associate Researcher of Computer Science
       institution: Institute of Computing Technology, Chinese Academy of Sciences
-      year: 2020-now
+      year: 2020-2025
       description:
         - Leading research team on Spatial-Temporal Data Mining.
     - title: Assitant Researcher of Computer Science
