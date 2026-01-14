@@ -5,17 +5,17 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-#"KDD":
-#  color: "#009f36"
+"KDD":
+  color: "#a624a7"
 
-#"VLDB":
-#  color: "#009f36"
+"VLDB":
+  color: "#4c96b7"
 
 #"ACM MM":
 #  color: "#009f36"
 
-#"AAAI":
-#  color: "#009f36"
+"AAAI":
+  color: "#4e4141"
 
 #"ICDE":
 #  color: "#009f36"
@@ -23,8 +23,8 @@
 #"ICML":
 #  color: "#009f36"
 
-#"CIKM":
-#  color: "#009f36"
+"CIKM":
+  color: "#009f36"
 
 #"DASFAA":
 #  color: "#009f36"
