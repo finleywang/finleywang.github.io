@@ -746,6 +746,103 @@
 }
 
 
+
+
+@article{SHAO2025100218,
+title = {HUTFormer: Hierarchical U-Net transformer for long-term traffic forecasting},
+journal = {Communications in Transportation Research},
+volume = {5},
+pages = {100218},
+abbr = {COMMTR},
+year = {2025},
+issn = {2772-4247},
+doi = {https://doi.org/10.1016/j.commtr.2025.100218},
+url = {https://www.sciencedirect.com/science/article/pii/S2772424725000587},
+author = {Zezhi Shao and Fei Wang and Tao Sun and Chengqing Yu and Yuchen Fang and Guangyin Jin and Zhulin An and Yang Liu and Xiaobo Qu and Yongjun Xu},
+keywords = {Traffic condition forecasting, Long-term time series forecasting, Multivariate time series forecasting},
+abstract = {Traffic forecasting, which aims to predict traffic conditions based on historical observations, has been an enduring research topic and is widely recognized as an essential component of intelligent transportation. Recent proposals on Spatial-Temporal Graph Neural Networks (STGNNs) have made significant progress by combining sequential models with graph convolution networks. However, due to high complexity issues, STGNNs only focus on short-term traffic forecasting (e.g., 1-h ahead), while ignoring more practical long-term forecasting. In this paper, we make the first attempt to explore long-term traffic forecasting (e.g., 1-day ahead). To this end, we first reveal its unique challenges in exploiting multi-scale representations. Then, we propose a novel Hierarchical U-net TransFormer (HUTFormer) to address the issues of long-term traffic forecasting. HUTFormer consists of a hierarchical encoder and decoder to jointly generate and utilize multi-scale representations of traffic data. Specifically, for the encoder, we propose window self-attention and segment merging to extract multi-scale representations from long-term traffic data. For the decoder, we design a cross-scale attention mechanism to effectively incorporate multi-scale representations. In addition, HUTFormer employs an efficient input embedding strategy to address the complexity issues. Extensive experiments on four traffic datasets show that the proposed HUTFormer significantly outperforms state-of-the-art traffic forecasting and long time series forecasting baselines.},
+google_scholar_id={rq4rw-O2q6QC},
+pdf={2025_CommTR_HUTFormer.pdf},
+selected={true}
+}
+
+
+@inproceedings{10.1145/3748777.3748814,
+author = {Shao, Zezhi and Yu, Chengqing and Wang, Fei},
+title = {Heterogeneity in Multivariate Time Series: Comprehensive Analysis and Adaptive Modeling},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3748777.3748814},
+doi = {10.1145/3748777.3748814},
+abstract = {Multivariate time series (MTS) data are ubiquitous in complex dynamic systems such as meteorology, transportation, and energy. However, data heterogeneity caused by cross-domain variations has become a central bottleneck restricting model generalization and consistency in comparative studies. This paper systematically reviews recent MTS forecasting research, revealing that inconsistencies in experimental conclusions primarily arise from neglecting substantial differences in data distributions and characteristics. To address this issue, we introduce BasicTS, an fair and scalable benchmark designed to fairly quantify the impact of heterogeneity on model performance. Subsequently, to tackle generalization challenges posed by heterogeneity, this tutorial proposes two adaptive solutions: (i) developing BLAST, a balanced and diversity-enhanced pre-training corpus that explicitly models heterogeneity, significantly improving zero-shot general forecasting; and (ii) introducing ARIES, a relational assessment and model recommendation framework that leverages a statistical pattern-to-model matching mechanism to automatically select optimal forecasting models for specific real-world sequences. Through comprehensive experiments and case studies, we demonstrate that precisely characterizing and leveraging data heterogeneity, beyond mere model design, is crucial for improving the robustness of MTS forecasting. This research provides methodological guidance and practical insights for academia and industry to fully exploit the value of time series data and make data-driven decisions.},
+booktitle = {Proceedings of the 19th International Symposium on Spatial and Temporal Data},
+pages = {76–79},
+numpages = {4},
+keywords = {time series forecasting, heterogeneity, benchmarking},
+location = {},
+series = {SSTD '25},
+google_scholar_id={gDB6RRZydyMC},
+abbr={SSTD},
+pdf={2025_SSTD_Heterogeneity_in_MTS.pdf},
+}
+
+
+
+@inproceedings{fu2025selective,
+title={Selective Learning for Deep Time Series Forecasting},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=kgzRy6nD6D},
+bibtex_show={true},
+abbr={NeurIPS},
+author={Fu, Yisong and Shao, Zezhi and Yu, Chengqing and Li, Yujie and An, Zhulin and Wang, Cheems and Xu, Yongjun and Wang, Fei},
+doi={https://doi.org/10.48550/arXiv.2510.25207},
+abstract={Benefiting from high capacity for capturing complex temporal patterns, deep learning (DL) has significantly advanced time series forecasting (TSF). However, deep models tend to suffer from severe overfitting due to the inherent vulnerability of time series to noise and anomalies. The prevailing DL paradigm uniformly optimizes all timesteps through the MSE loss and learns those uncertain and anomalous timesteps without difference, ultimately resulting in overfitting. To address this, we propose a novel selective learning strategy for deep TSF. Specifically, selective learning screens a subset of the whole timesteps to calculate the MSE loss in optimization, guiding the model to focus on generalizable timesteps while disregarding non-generalizable ones. Our framework introduces a dual-mask mechanism to target timesteps: (1) an uncertainty mask leveraging residual entropy to filter uncertain timesteps, and (2) an anomaly mask employing residual lower bound estimation to exclude anomalous timesteps. Extensive experiments across eight real-world datasets demonstrate that selective learning can significantly improve the predictive performance for typical state-of-the-art deep models, including 37.4% MSE reduction for Informer, 8.4% for TimesNet, and 6.5% for iTransformer.},
+google_scholar_id={vxVQT5kDUaMC},
+doi={https://doi.org/10.48550/arXiv.2510.25207},
+pdf={2025_NeurIPS_Selective_Learning.pdf},
+selected={true},
+code={https://github.com/GestaltCogTeam/selective-learning}
+}
+
+
+@inproceedings{
+fu2025on,
+title={On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting},
+author={Yisong Fu and Fei Wang and Zezhi Shao and Boyu Diao and Lin Wu and Zhulin An and Chengqing Yu and Yujie Li and Yongjun Xu},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=thHhKPlt8q},
+google_scholar_id={41b8sTJFDYwC},
+abbr={NeurIPS},
+}
+
+@inproceedings{
+qian2025smartraj,
+title={SMARTraj2: A Stable Multi-City Adaptive Method for Multi-View Spatio-Temporal Trajectory Representation Learning},
+author={Tangwen Qian and Junhe Li and Yile Chen and Gao Cong and Zezhi Shao and Jun Zhang and Tao Sun and Fei Wang and Yongjun Xu},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=JkVQmaE5pK},
+google_scholar_id={Kmip3zU-C7YC},
+abbr={NeurIPS},
+}
+
+
+@inproceedings{
+li2025apt,
+title={APT: Affine Prototype-Timestamp For Time Series Forecasting Under Distribution Shift},
+author={Li, Yujie and Shao, Zezhi and Yu, Chengqing and Fu, Yisong and Sun, Tao and Xu, Yongjun and Wang, Fei},
+booktitle={AAAI},
+year={2025},
+url={https://doi.org/10.48550/arXiv.2511.12945},
+google_scholar_id={mNm_27jwclsC},
+pdf={2025_AAAI_APT.pdf},
+abbr={AAAI},
+}
+
+
 @ARTICLE{7038220,
   bibtex_show={true},
   abbr={IEEE TVT},
