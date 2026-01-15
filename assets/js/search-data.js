@@ -112,6 +112,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1108/";
+            },},{id: "news-one-workshop-webst-has-been-accepted-by-www-2026-welcome-to-submit-papers",
+          title: 'One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1109/";
+            },},{id: "news-one-tkde-paper-about-mts-heterogeneity-has-entered-esi-hot-papers",
+          title: 'One TKDE paper about MTS heterogeneity has entered ESI hot papers！',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1115/";
+            },},{id: "news-one-vldb-paper-about-decoupled-spatial-temporal-framework-and-its-instantiation-has-entered-esi-high-cited-papers",
+          title: 'One VLDB paper about Decoupled Spatial-Temporal Framework and its instantiation has entered ESI...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260114/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
