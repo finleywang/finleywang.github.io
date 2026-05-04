@@ -122,11 +122,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1115/";
+            },},{id: "news-one-www-2026-paper-about-outcome-supervised-agentic-reasoning-for-kbqa-has-been-accepted",
+          title: 'One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260113/";
             },},{id: "news-one-vldb-paper-about-decoupled-spatial-temporal-framework-and-its-instantiation-has-entered-esi-high-cited-papers",
           title: 'One VLDB paper about Decoupled Spatial-Temporal Framework and its instantiation has entered ESI...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260114/";
+            },},{id: "news-one-sigir-2026-paper-about-knowledgeable-deep-research-and-hybrid-knowledge-analysis-has-been-accepted",
+          title: 'One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260414/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
