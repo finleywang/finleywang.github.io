@@ -137,8 +137,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260414/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-icml-our-three-papers-zeus-pulse-and-dropoutts-have-been-accepted-to-icml-2026-congrats-to-all",
+          title: '/[ICML] Our three papers, Zeus, PULSE, and DropoutTS, have been accepted to ICML...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260501/";
