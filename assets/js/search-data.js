@@ -42,19 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-innovation-one-editoral-about-ai-impact-on-world-is-published-on-the-innovation-congrats-to-all-sparkles",
-          title: '[Innovation] One editoral about AI impact on world is published on The Innovation,...',
-          description: "",
-          section: "News",},{id: "news-aaai-two-papers-are-accepted-by-aaai-congrats-to-all-sparkles",
-          title: '[AAAI] Two papers are accepted by AAAI, congrats to all!:sparkles:',
-          description: "",
-          section: "News",},{id: "news-innovation-one-commentary-about-spatial-temporal-large-models-for-science-is-accepted-by-the-innovation-congrats-to-zezhi-sparkles",
-          title: '[Innovation] One commentary about Spatial-Temporal Large Models for Science is accepted by The...',
-          description: "",
-          section: "News",},{id: "news-innovation-one-commentary-about-ai-in-autonomous-vehicles-is-accepted-by-the-innovation-congrats-to-all-sparkles",
-          title: '[Innovation] One commentary about AI in autonomous vehicles is accepted by The Innovation,...',
-          description: "",
-          section: "News",},{id: "news-innovation-one-amazing-review-about-metacity-is-accepted-by-the-innovation-congrats-to-all-sparkles",
+            },},{id: "news-innovation-one-amazing-review-about-metacity-is-accepted-by-the-innovation-congrats-to-all-sparkles",
           title: '[Innovation] One amazing review about MetaCity is accepted by The Innovation, congrats to...',
           description: "",
           section: "News",},{id: "news-news-dr-fei-wang-is-selected-as-youth-editor-of-the-innovation-sparkles",
@@ -69,76 +57,88 @@ ninja.data = [{
           section: "News",},{id: "news-innovation-one-amazing-review-about-decision-intelligence-is-accepted-by-the-innovation-congrats-to-all-sparkles",
           title: '[Innovation] One amazing review about Decision Intelligence is accepted by The Innovation, congrats...',
           description: "",
-          section: "News",},{id: "news-review-of-foundation-model-and-decision-intelligence-is-selected-as-cover-paper",
-          title: 'Review of Foundation Model and Decision Intelligence is selected as Cover Paper!',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0512/";
             },},{id: "news-kdd-two-papers-blast-and-merlin-are-accepted-by-kdd-congrats-to-zezhi-and-chengqing-sparkles",
           title: '[KDD] Two papers, BLAST and Merlin, are accepted by KDD, congrats to Zezhi...',
           description: "",
-          section: "News",},{id: "news-we-have-established-ieee-cis-task-force-on-ai-for-time-series-and-spatio-temporal-data",
-          title: 'We have established IEEE CIS Task Force on AI for Time Series and...',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0620/";
-            },},{id: "news-one-tutorial-about-mts-heterogeneity-has-been-accepted-by-sstd-2025",
-          title: 'One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0709/";
-            },},{id: "news-one-tkde-paper-about-mts-heterogeneity-has-entered-esi-high-cited-papers",
-          title: 'One TKDE paper about MTS heterogeneity has entered ESI high cited papers！',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0715/";
-            },},{id: "news-dr-fei-wang-gives-a-talk-about-st-data-compact-learning-at-ndbc-2025",
-          title: 'Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0802/";
-            },},{id: "news-three-papers-have-been-accepted-by-neurips-2025-congrats-to-yisong-tangwen-and-all-coauthors",
-          title: 'Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0919/";
-            },},{id: "news-our-basicts-has-now-been-upgraded-to-v1-0",
-          title: 'Our BasicTS has now been upgraded to v1.0!',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1030/";
-            },},{id: "news-our-paper-have-been-accepted-by-aaai-26-congrats-to-yujie-li-and-all-coauthors",
-          title: 'Our Paper have been accepted by AAAI 26, congrats to Yujie Li and...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1108/";
-            },},{id: "news-one-workshop-webst-has-been-accepted-by-www-2026-welcome-to-submit-papers",
-          title: 'One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1109/";
-            },},{id: "news-one-tkde-paper-about-mts-heterogeneity-has-entered-esi-hot-papers",
-          title: 'One TKDE paper about MTS heterogeneity has entered ESI hot papers！',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1115/";
-            },},{id: "news-one-www-2026-paper-about-outcome-supervised-agentic-reasoning-for-kbqa-has-been-accepted",
-          title: 'One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！...',
+            },},{id: "news-innovation-one-editoral-about-ai-impact-on-world-is-published-on-the-innovation-congrats-to-all-sparkles",
+          title: '[Innovation] One editoral about AI impact on world is published on The Innovation,...',
+          description: "",
+          section: "News",},{id: "news-aaai-two-papers-are-accepted-by-aaai-congrats-to-all-sparkles",
+          title: '[AAAI] Two papers are accepted by AAAI, congrats to all!:sparkles:',
+          description: "",
+          section: "News",},{id: "news-innovation-one-commentary-about-spatial-temporal-large-models-for-science-is-accepted-by-the-innovation-congrats-to-zezhi-sparkles",
+          title: '[Innovation] One commentary about Spatial-Temporal Large Models for Science is accepted by The...',
+          description: "",
+          section: "News",},{id: "news-innovation-one-commentary-about-ai-in-autonomous-vehicles-is-accepted-by-the-innovation-congrats-to-all-sparkles",
+          title: '[Innovation] One commentary about AI in autonomous vehicles is accepted by The Innovation,...',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260113/";
-            },},{id: "news-one-vldb-paper-about-decoupled-spatial-temporal-framework-and-its-instantiation-has-entered-esi-high-cited-papers",
-          title: 'One VLDB paper about Decoupled Spatial-Temporal Framework and its instantiation has entered ESI...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260114/";
-            },},{id: "news-one-sigir-2026-paper-about-knowledgeable-deep-research-and-hybrid-knowledge-analysis-has-been-accepted",
-          title: 'One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260414/";
-            },},{id: "news-our-three-papers-zeus-pulse-and-dropoutts-have-been-accepted-to-icml-2026",
-          title: 'Our three papers, Zeus, PULSE, and DropoutTS, have been accepted to ICML 2026....',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260501/";
