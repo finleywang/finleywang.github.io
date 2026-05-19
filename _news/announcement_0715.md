@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One TKDE paper about MTS heterogeneity has entered ESI high cited papers！
+title: [TKDE] One TKDE paper about MTS heterogeneity has entered ESI high cited papers！
 date: 2025-07-15 12:00:00-0000
 inline: false
 related_posts: false

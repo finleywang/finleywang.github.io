@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and all coauthors！
+title: [NIPS] Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and all coauthors！
 date: 2025-09-19 12:00:00-0000
 inline: false
 related_posts: false

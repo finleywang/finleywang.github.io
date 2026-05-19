@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！
+title: [WWW] One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！
 date: 2026-01-13 12:00:00-0000
 inline: false
 related_posts: false

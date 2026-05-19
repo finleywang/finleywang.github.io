@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Paper have been accepted by AAAI 26, congrats to Yujie Li and all coauthors！
+title: [AAAI] Our Paper have been accepted by AAAI 26, congrats to Yujie Li and all coauthors！
 date: 2025-11-09 12:00:00-0000
 inline: false
 related\_posts: false

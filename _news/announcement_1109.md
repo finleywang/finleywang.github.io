@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.
+title: [WebST] One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.
 date: 2025-11-09 12:00:00-0000
 inline: false
 related_posts: false

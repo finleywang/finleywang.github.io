@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has been accepted！
+title: [SIGIR] One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has been accepted！
 date: 2026-04-14 12:00:00-0000
 inline: false
 related_posts: false

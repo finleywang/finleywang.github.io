@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One VLDB paper about Decoupled Spatial-Temporal Framework and its instantiation has entered ESI high cited papers！
+title: [VLDB] One VLDB paper about Decoupled Spatial-Temporal Framework and its instantiation has entered ESI high cited papers！
 date: 2026-01-14 12:00:00-0000
 inline: false
 related_posts: false

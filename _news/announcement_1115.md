@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One TKDE paper about MTS heterogeneity has entered ESI hot papers！
+title: [TKDE] One TKDE paper about MTS heterogeneity has entered ESI hot papers！
 date: 2025-11-15 12:00:00-0000
 inline: false
 related_posts: false

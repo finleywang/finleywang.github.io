@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！
+title: [SSTD] One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！
 date: 2025-07-09 12:00:00-0000
 inline: false
 related_posts: false

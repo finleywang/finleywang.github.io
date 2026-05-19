@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC 2025！
+title: [NDBC] Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC 2025！
 date: 2025-08-02 12:00:00-0000
 inline: false
 related_posts: false
