@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Innovation | One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!:sparkles: 
+Innovation \| One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!:sparkles: 

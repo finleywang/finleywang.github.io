@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Innovation | One editoral about AI impact on world is published on <b>The Innovation</b>, congrats to all!:sparkles: 
+Innovation \| One editoral about AI impact on world is published on <b>The Innovation</b>, congrats to all!:sparkles: 

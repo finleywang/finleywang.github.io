@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-ICML | Our three papers, Zeus, PULSE, and DropoutTS, have been accepted to ICML 2026, Congrats to all!
+ICML \| Our three papers, Zeus, PULSE, and DropoutTS, have been accepted to ICML 2026, Congrats to all!
 
 ---
 

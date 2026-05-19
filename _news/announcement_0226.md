@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-News | Dr. Fei Wang is selected as Youth Editor of The Innovation!:sparkles: 
+News \| Dr. Fei Wang is selected as Youth Editor of The Innovation!:sparkles: 
