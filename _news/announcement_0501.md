@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ICML | One paper is accepted by <b>ICML</b>，congrats to all!:sparkles: 
+ICML \| One paper is accepted by <b>ICML</b>，congrats to all!:sparkles: 

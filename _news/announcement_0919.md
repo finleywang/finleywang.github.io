@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-NIPS | Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and all coauthors！
+NIPS \| Three Papers have been accepted by NeurIPS 2025, congrats to Yisong, Tangwen and all coauthors！
 ["Selective Learning for Deep Time Series Forecasting"](https://neurips.cc/virtual/2025/poster/116357)，["On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting"](https://arxiv.org/abs/2408.09695)，["SMARTraj^2:A Stable Multi-City Adaptive Method for Multi-View Spatio-Temporal Trajectory Representation Learning"](https://neurips.cc/virtual/2025/poster/118698).
 
 ---

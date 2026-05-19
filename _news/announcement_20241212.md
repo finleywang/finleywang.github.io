@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Innovation | One commentary about Spatial-Temporal Large Models for Science is accepted by <b>The Innovation</b>, congrats to Zezhi!:sparkles: 
+Innovation \| One commentary about Spatial-Temporal Large Models for Science is accepted by <b>The Innovation</b>, congrats to Zezhi!:sparkles: 

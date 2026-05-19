@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TKDE | One paper is accepted by <b>TKDE</b>，congrats to all!:sparkles: 
+TKDE \| One paper is accepted by <b>TKDE</b>，congrats to all!:sparkles: 
