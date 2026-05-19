@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, congrats to all! :sparkles: 
+[Innovation] One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, congrats to all! :sparkles: 

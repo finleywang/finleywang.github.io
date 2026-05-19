@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our VLDB paper about Decoupled Spatial-Temporal Framework (DSTF) ， and the instantiation of DSTF, Decoupled Dynamic Spatial-Temporal Graph Neural Network (D2STGNN), entitled ["Decoupled dynamic spatial-temporal graph neural network for traffic forecasting"](https://dl.acm.org/doi/abs/10.14778/3551793.3551827), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Computer Science area.
+[VLDB] Our VLDB paper about Decoupled Spatial-Temporal Framework (DSTF) ， and the instantiation of DSTF, Decoupled Dynamic Spatial-Temporal Graph Neural Network (D2STGNN), entitled ["Decoupled dynamic spatial-temporal graph neural network for traffic forecasting"](https://dl.acm.org/doi/abs/10.14778/3551793.3551827), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Computer Science area.
 
 ---
 Introduction

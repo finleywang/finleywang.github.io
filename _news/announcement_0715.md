@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our TKDE paper about MTS heterogeneity and BasicTS, entitled ["Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis"](https://ieeexplore.ieee.org/document/10726722/), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Engineering area.
+[TKDE] Our TKDE paper about MTS heterogeneity and BasicTS, entitled ["Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis"](https://ieeexplore.ieee.org/document/10726722/), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Engineering area.
 
 ---
 Introduction

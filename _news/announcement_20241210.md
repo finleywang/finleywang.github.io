@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by <b>AAAI</b>, congrats to all!:sparkles: 
+[AAAI] Two papers are accepted by <b>AAAI</b>, congrats to all!:sparkles: 

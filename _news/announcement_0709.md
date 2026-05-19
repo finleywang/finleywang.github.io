@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our Tutorial MTS heterogeneity and Adaptive Modeling, entitled "Heterogeneity in Multivariate Time Series: Comprehensive
+[SSTD] Our Tutorial MTS heterogeneity and Adaptive Modeling, entitled "Heterogeneity in Multivariate Time Series: Comprehensive
 Analysis and Adaptive Modeling", has been accepted by [The 19th International Symposium on Spatial and Temporal Data (SSTD)](https://sstd2025.github.io/index.html).
 
 ---
