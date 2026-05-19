@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [WWW] One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！
+title: WWW | One WWW 2026 paper about outcome-supervised agentic reasoning for KBQA has been accepted！
 date: 2026-01-13 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[WWW] Our WWW 2026 paper about Knowledge Base Question Answering, entitled ["Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA"](https://doi.org/10.1145/3774904.3792662), has been accepted. The paper presents AgenticKBQA, a new framework that strengthens the autonomous reasoning capability of Large Language Models for KBQA through outcome-only supervision.
+WWW | Our WWW 2026 paper about Knowledge Base Question Answering, entitled ["Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA"](https://doi.org/10.1145/3774904.3792662), has been accepted. The paper presents AgenticKBQA, a new framework that strengthens the autonomous reasoning capability of Large Language Models for KBQA through outcome-only supervision.
 
 ---
 Introduction

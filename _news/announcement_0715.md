@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [TKDE] One TKDE paper about MTS heterogeneity has entered ESI high cited papers！
+title: TKDE | One TKDE paper about MTS heterogeneity has entered ESI high cited papers！
 date: 2025-07-15 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[TKDE] Our TKDE paper about MTS heterogeneity and BasicTS, entitled ["Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis"](https://ieeexplore.ieee.org/document/10726722/), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Engineering area.
+TKDE | Our TKDE paper about MTS heterogeneity and BasicTS, entitled ["Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis"](https://ieeexplore.ieee.org/document/10726722/), has entered <b>ESI high cited papers</b>. It belongs to the top 1% papers in Engineering area.
 
 ---
 Introduction

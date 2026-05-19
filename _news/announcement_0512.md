@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [Innovation] Review of Foundation Model and Decision Intelligence is selected as Cover Paper!
+title: Innovation | Review of Foundation Model and Decision Intelligence is selected as Cover Paper!
 date: 2025-05-12 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-[Innovation] One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, it is also selected as Cover Page.:sparkles: 
+Innovation | One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, it is also selected as Cover Page.:sparkles: 
 
 ---
 Cover Story

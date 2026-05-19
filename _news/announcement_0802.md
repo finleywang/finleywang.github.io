@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [NDBC] Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC 2025！
+title: NDBC | Dr. Fei Wang gives a talk about ST Data Compact Learning at NDBC 2025！
 date: 2025-08-02 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[NDBC] Dr. Fei Wang gives a talk, entitled Spatio-temporal Data Compact Learning and Prediction Technology at ["the 42nd CCF National Database Conference"](https://mp.weixin.qq.com/s/yMDQUgyz0L1s1K9ses4Dow).
+NDBC | Dr. Fei Wang gives a talk, entitled Spatio-temporal Data Compact Learning and Prediction Technology at ["the 42nd CCF National Database Conference"](https://mp.weixin.qq.com/s/yMDQUgyz0L1s1K9ses4Dow).
 
 ---
 Introduction

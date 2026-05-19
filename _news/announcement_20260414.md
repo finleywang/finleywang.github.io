@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [SIGIR] One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has been accepted！
+title: SIGIR | One SIGIR 2026 paper about Knowledgeable Deep Research and Hybrid Knowledge Analysis has been accepted！
 date: 2026-04-14 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[SIGIR] Our SIGIR 2026 paper about Knowledgeable Deep Research, entitled ["Knowledgeable Deep Research: Hybrid Knowledge Analysis for Structured and Unstructured Information Integration"](https://arxiv.org/abs/2604.07720), has been accepted. The paper introduces a new deep research task that jointly leverages structured and unstructured knowledge, together with a multi-agent framework that generates coherent multimodal reports with texts, figures, and tables.
+SIGIR | Our SIGIR 2026 paper about Knowledgeable Deep Research, entitled ["Knowledgeable Deep Research: Hybrid Knowledge Analysis for Structured and Unstructured Information Integration"](https://arxiv.org/abs/2604.07720), has been accepted. The paper introduces a new deep research task that jointly leverages structured and unstructured knowledge, together with a multi-agent framework that generates coherent multimodal reports with texts, figures, and tables.
 
 ---
 Introduction

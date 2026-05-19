@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [BasicTS] Our BasicTS has now been upgraded to v1.0!
+title: BasicTS | Our BasicTS has now been upgraded to v1.0!
 date: 2025-10-30 12:00:00-0000
 inline: false
 related_posts: false

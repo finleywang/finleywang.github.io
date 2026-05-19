@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [WebST] One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.
+title: WebST | One workshop WebST has been Accepted by WWW-2026, welcome to submit papers.
 date: 2025-11-09 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[WebST] Our workshop entitled ["The 2nd International Workshop on Spatio-Temporal Data Mining from the Web"（WebST 2026）](https://webst2025.netlify.app/#about), has been accepted by [THE ACM WEB CONFERENCE 2026](https://www2026.thewebconf.org/).
+WebST | Our workshop entitled ["The 2nd International Workshop on Spatio-Temporal Data Mining from the Web"（WebST 2026）](https://webst2025.netlify.app/#about), has been accepted by [THE ACM WEB CONFERENCE 2026](https://www2026.thewebconf.org/).
 
 ---
 Introduction

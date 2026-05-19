@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [SSTD] One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！
+title: SSTD | One Tutorial about MTS heterogeneity has been Accepted by SSTD 2025！
 date: 2025-07-09 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-[SSTD] Our Tutorial MTS heterogeneity and Adaptive Modeling, entitled "Heterogeneity in Multivariate Time Series: Comprehensive
+SSTD | Our Tutorial MTS heterogeneity and Adaptive Modeling, entitled "Heterogeneity in Multivariate Time Series: Comprehensive
 Analysis and Adaptive Modeling", has been accepted by [The 19th International Symposium on Spatial and Temporal Data (SSTD)](https://sstd2025.github.io/index.html).
 
 ---
