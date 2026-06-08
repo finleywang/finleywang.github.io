@@ -8,6 +8,12 @@
 "KDD":
   color: "#a624a7"
 
+"ICML":
+  color: "#a624a7"
+
+"NeurIPS":
+  color: "#a624a7"
+
 "VLDB":
   color: "#4c96b7"
 
@@ -33,6 +39,9 @@
   color: "#359469"
 
 "TKDE":
+  color: "#359469"
+
+"TITS":
   color: "#359469"
 
 "Information Fusion":
