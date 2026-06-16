@@ -44,6 +44,9 @@ His academic services include：
 
 His main academic hornors and awards:
 * 2026, The Innovation Geoscience Award 2026
+* 2026, Most Influential CIKM 2022 Papers (#1@2024-05, #1@2024-09, #1@2025-09, #1@2026-03, ranked by PaperDigest)
+* 2026, Most Influential CIKM 2023 Papers (#5@2024-05, #5@2024-09, #5@2025-09, #4@2026-03, ranked by PaperDigest)
+* 2026, Most Influential KDD 2022 Papers (#3@2024-05, #4@2024-09, #3@2025-09, #3@2026-03, ranked by PaperDigest)
 * 2025, “Project of Western Light for Interdisciplinary Team” of CAS
 * 2025, VLDB 22 paper, ESI (Essential Science Indicators) Highly Cited Paper
 * 2025, TKDE 24 paper, ESI (Essential Science Indicators) Highly Cited Paper & Hot Paper
@@ -51,9 +54,6 @@ His main academic hornors and awards:
 * 2024, The Innovation Best Reviewer Award
 * 2024, The Innovation Best Paper Award
 * 2024, Most Liked Poster Award, Research Summit of Urban Sciences and Human Dynamics
-* 2024, Most Influential CIKM 2022 Papers (#1@2024-05, #1@2024-09, #1@2025-09, #1@2026-03, ranked by PaperDigest)
-* 2024, Most Influential CIKM 2023 Papers (#5@2024-05, #5@2024-09, #5@2025-09, #4@2026-03, ranked by PaperDigest)
-* 2024, Most Influential KDD 2022 Papers (#3@2024-05, #4@2024-09, #3@2025-09, #3@2026-03, ranked by PaperDigest)
 * 2022, Youth Innovation Promotion Association of CAS
 * 2022, DASFAA Best Student Paper (DASFAA 2022)
 
