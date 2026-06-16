@@ -43,12 +43,13 @@ His academic services include：
 * **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TNNLS, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks.
 
 His main academic hornors and awards:
+* 2026, The Innovation Geoscience Award 2026
 * 2025, “Project of Western Light for Interdisciplinary Team” of CAS
 * 2025, VLDB 22 paper, ESI (Essential Science Indicators) Highly Cited Paper
 * 2025, TKDE 24 paper, ESI (Essential Science Indicators) Highly Cited Paper & Hot Paper
-* 2025, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
-* 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Reviewer Award
-* 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
+* 2025, The Innovation Best Paper Award
+* 2024, The Innovation Best Reviewer Award
+* 2024, The Innovation Best Paper Award
 * 2024, Most Liked Poster Award, Research Summit of Urban Sciences and Human Dynamics
 * 2024, Most Influential CIKM 2022 Papers #1 (2024-09 ranked by PaperDigest)
 * 2024, Most Influential CIKM 2023 Papers #5 (2024-09 ranked by PaperDigest)
