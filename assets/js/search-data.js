@@ -142,6 +142,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260501/";
+            },},{id: "news-aaai-prof-fei-wang-will-serve-as-area-chair-for-aaai-2027",
+          title: 'AAAI | Prof. Fei Wang will serve as Area Chair for AAAI 2027!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260720/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
