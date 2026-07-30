@@ -26,7 +26,7 @@ latest_posts:
 
 Prof. Fei Wang is currently a Professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). He is affiliated with the Research Center for Intelligent Equipment Systems and the State Key Laboratory of AI Safety. His research centers on the theory, development and real-world applications of spatio-temporal data mining, time series forecasting, and AI for Science (AI4Science).
 He earned his Ph.D. from ICT, CAS under the supervision of [**Prof. Yongjun Xu**](https://scholar.google.com/citations?user=l34KxTYAAAAJ&hl=zh-CN). He also receives academic guidance from [**Prof. Xueqi Cheng**](https://scholar.google.com.hk/citations?user=hY8aLqAAAAAJ&hl=zh-CN).
-To date, Prof. Wang has published over 70 peer-reviewed papers in top-tier journals including The Innovation, IEEE TKDE and IEEE TVT, as well as flagship conferences such as KDD, ICDE, VLDB, ICML, AAAI, NeurIPS, CVPR, CIKM, MM, ACL and so on. His scholarly outputs have accumulated more than 7,500 citations on Google Scholar, with an h-index of 29.
+To date, Prof. Wang has published over 70 peer-reviewed papers in top-tier journals including The Innovation, IEEE TKDE and IEEE TVT, as well as flagship conferences such as KDD, ICDE, VLDB, ICML, AAAI, NeurIPS, CVPR, CIKM, MM, ACL and so on. His scholarly outputs have accumulated more than 7,600 citations on Google Scholar, with an h-index of 29.
 His research has received numerous prestigious recognitions: two journal paper won the Best Paper Award from The Innovation; one work received the Best Student Paper Award at DASFAA 2022; multiple papers (STEP, STID, DSFormer) were listed among the most influential works by PaperDigest; two publications were selected as ESI Highly Cited Papers (Top 1% in their fields), and one paper was recognized as an ESI Hot Paper (Top 0.1% in the Engineering discipline).
 Prof. Wang currently serves as a Youth Editor for The Innovation — a multidisciplinary journal with an Impact Factor of 25.7 (4th worldwide among all multidisciplinary journals) and a CiteScore of 53.4 (2nd globally in the same category). He also regularly acts as a Program Committee member for leading international conferences, including KDD, NeurIPS, IJCAI, AAAI and ACM MM.
 
@@ -39,7 +39,7 @@ His research interests mainly lie in:
 
 His academic services include：
 * **Organization**: Program Chair of [WebST 2026 @ WWW-26](https://webst2025.netlify.app/organizer), Chair of CNCC 2025 Workshop, Publicity Chair of [WebST 2025 @ WWW-25](https://webst2025.netlify.app/organizer), Program Committee of [IEEE CIS Task Force on AI for Time Series and Spatio-Temporal Data](https://cis.taskforce.ieee.org/ai4tst/).
-* **PC Member**: ACMMM 2026, ECCV 2026, ACL ARR 2026, CVPR 2026,ICML 2026, AAAI 2026, KDD 2026, Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
+* **Area Chair or PC Member**: AAAI 2027(AC), KDD 2027, ACMMM 2026, ECCV 2026, ACL ARR 2026, CVPR 2026,ICML 2026, AAAI 2026, KDD 2026, Neurips 2025, ACM MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2024, AAAI 2023, AAAI 2022.
 * **Reviewer**: IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TNNLS, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Neural Networks.
 
 His main academic hornors and awards:
