@@ -147,6 +147,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20260720/";
+            },},{id: "news-aaai-prof-fei-wang-will-serve-as-executive-editor-in-chief-for-ai-plus",
+          title: 'AAAI | Prof. Fei Wang will serve as Executive Editor-in-Chief for AI Plus!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20260905/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
