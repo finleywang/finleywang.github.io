@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AAAI | Prof. Fei Wang will serve as Executive Editor-in-Chief for AI Plus!
-date: 2026-09-06 12:00:00-0000
+title: AI Plus | Prof. Fei Wang will serve as Executive Editor-in-Chief for AI Plus!
+date: 2026-09-05 12:00:00-0000
 inline: false
 related_posts: false
 ---
